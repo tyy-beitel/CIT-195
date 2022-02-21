@@ -1,0 +1,20 @@
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\bin\Debug\netcoreapp3.1\WrapPanel Stack Panel.exe
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\bin\Debug\netcoreapp3.1\WrapPanel Stack Panel.deps.json
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\bin\Debug\netcoreapp3.1\WrapPanel Stack Panel.runtimeconfig.json
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\bin\Debug\netcoreapp3.1\WrapPanel Stack Panel.runtimeconfig.dev.json
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\bin\Debug\netcoreapp3.1\WrapPanel Stack Panel.dll
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\bin\Debug\netcoreapp3.1\WrapPanel Stack Panel.pdb
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel.csproj.AssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel_MarkupCompile.cache
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel_MarkupCompile.lref
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel.g.resources
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel.AssemblyInfoInputs.cache
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel.AssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel.dll
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel.pdb
+C:\Users\tyler\OneDrive\Desktop\WrapPanel Stack Panel\WrapPanel Stack Panel\obj\Debug\netcoreapp3.1\WrapPanel Stack Panel.genruntimeconfig.cache
