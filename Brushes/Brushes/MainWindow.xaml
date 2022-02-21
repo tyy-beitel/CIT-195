@@ -1,0 +1,21 @@
+﻿<Window x:Class="Brushes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Brushes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300" OpacityMask="#99000000">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF13176E"/>
+            <GradientStop Color="#FF4449BD" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="0,0,10,-6">
+        <Ellipse HorizontalAlignment="Center" Height="95" Stroke="#FF958BFA" VerticalAlignment="Center" Width="101" Fill="White" StrokeThickness="10"/>
+        <Ellipse HorizontalAlignment="Left" Height="153" Stroke="#FF958BFA" VerticalAlignment="Top" Width="151" Fill="#4CFFFFFF" StrokeThickness="10" Margin="-56,95,0,0"/>
+        <Ellipse HorizontalAlignment="Left" Height="133" Stroke="#FF958BFA" VerticalAlignment="Top" Width="135" Fill="#7FFFFFFF" StrokeThickness="10" Margin="145,10,0,0"/>
+        <Ellipse HorizontalAlignment="Left" Height="95" Stroke="#FF958BFA" VerticalAlignment="Top" Width="101" Fill="#33FFFFFF" StrokeThickness="10" Margin="-31,-35,0,0"/>
+    </Grid>
+</Window>
