@@ -1,0 +1,20 @@
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\bin\Debug\netcoreapp3.1\Simple App.exe
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\bin\Debug\netcoreapp3.1\Simple App.deps.json
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\bin\Debug\netcoreapp3.1\Simple App.runtimeconfig.json
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\bin\Debug\netcoreapp3.1\Simple App.runtimeconfig.dev.json
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\bin\Debug\netcoreapp3.1\Simple App.dll
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\bin\Debug\netcoreapp3.1\Simple App.pdb
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App.csproj.AssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App_MarkupCompile.cache
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App_MarkupCompile.lref
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App.g.resources
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App.AssemblyInfoInputs.cache
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App.AssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App.dll
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App.pdb
+C:\Users\tyler\OneDrive\Desktop\Simple App\Simple App\obj\Debug\netcoreapp3.1\Simple App.genruntimeconfig.cache

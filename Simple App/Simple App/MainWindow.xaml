@@ -1,0 +1,20 @@
+﻿<Window x:Class="Simple_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Simple_App"
+        mc:Ignorable="d"
+        Title="Simple Application" Height="300" Width="400">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF05041F"/>
+                <GradientStop Color="#FF464585" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label x:Name="TextLabel" Content="" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="36" FontFamily="Times New Roman" Foreground="#FF615F94"/>
+        <Button x:Name="DisplayTextButton" Content="Display Text" HorizontalAlignment="Center" Margin="0,254,0,0" VerticalAlignment="Top" Click="DisplayText"/>
+
+    </Grid>
+</Window>
