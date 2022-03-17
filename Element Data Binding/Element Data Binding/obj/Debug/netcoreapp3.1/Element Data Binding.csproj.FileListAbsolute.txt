@@ -1,0 +1,20 @@
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\bin\Debug\netcoreapp3.1\Element Data Binding.exe
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\bin\Debug\netcoreapp3.1\Element Data Binding.deps.json
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\bin\Debug\netcoreapp3.1\Element Data Binding.runtimeconfig.json
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\bin\Debug\netcoreapp3.1\Element Data Binding.runtimeconfig.dev.json
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\bin\Debug\netcoreapp3.1\Element Data Binding.dll
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\bin\Debug\netcoreapp3.1\Element Data Binding.pdb
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding.csproj.AssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding_MarkupCompile.cache
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding_MarkupCompile.lref
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding.g.resources
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding.AssemblyInfoInputs.cache
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding.AssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding.dll
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding.pdb
+C:\Users\tyler\OneDrive\Desktop\Element Data Binding\Element Data Binding\obj\Debug\netcoreapp3.1\Element Data Binding.genruntimeconfig.cache
